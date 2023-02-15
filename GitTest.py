@@ -1,2 +1,2 @@
-print("git pull test")
-print("connect success!!")
+print("git push test")
+print("git connect success!!")
